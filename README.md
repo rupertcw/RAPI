@@ -1,2 +1,2 @@
-# rapi
+# RAPI
 Rust API
