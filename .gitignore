@@ -1,4 +1,5 @@
-*.iml
-*.xml
-*.lock
-*.toml
+**/*.iml
+**/*.xml
+**/*.lock
+**/target/*
+.idea
